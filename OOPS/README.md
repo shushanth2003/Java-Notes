@@ -9,3 +9,11 @@
 ![img.png](img.png)
 ---
 
+## class
+A Class is a user-defined blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type. Using classes, you can create multiple objects with the same behavior instead of writing their code multiple times. In general, class declarations can include these components in order:
+
+* Modifiers: A class can be public or have default access (Refer to this for details).
+* Class name: The class name should begin with the initial letter capitalized by convention.
+* Body: The class body is surrounded by braces, { }.
+
+---
