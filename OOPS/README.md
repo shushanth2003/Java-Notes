@@ -27,3 +27,5 @@ An Object is a basic unit of Object-Oriented Programming that represents real-li
 * Method: A method is a collection of statements that perform some specific task and return the result to the caller.
 
 ---
+## Abstraction
+Abstraction in Java is the process of hiding the implementation details and only showing the essential details or features to the user. It allows to focus on what an object does rather than how it does it. The unnecessary details are not displayed to the user.
