@@ -84,3 +84,33 @@ public class Main {
     }
 }
 ~~~
+---
+## Public Access Modifier
+The public access modifier is specified using the keyword public. Public members are accessible from everywhere in the program. There is no restriction on the scope of public data members.
+~~~
+java
+class MathUtils { 
+    
+    public static int add(int a, int b) {
+        return a + b;
+    }
+}
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        System.out.println(MathUtils.add(5, 10)); // accessible anywhere
+    }
+}
+~~~
+---
+## Comparison Table of Access Modifiers in Java
+![img_1.png](img_1.png)
+---
+## When to Use Each Access Modifier in Real-World Projects
+* **Private**: The idea should be use as restrictive access as possible, so private should be used as much as possible.
+* **Default**: (Package-Private): Often used in package-scoped utilities or helper classes.
+* **Protected**: Commonly used in inheritance-based designs like framework extensions.
+* **Public**: This is used for API endpoints, service classes, or utility methods shared across different parts of an application.
+
