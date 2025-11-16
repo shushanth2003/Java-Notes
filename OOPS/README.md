@@ -42,6 +42,7 @@ Encapsulation is defined as the process of wrapping data and the methods into a 
 Inheritance is an important pillar of OOP (Object Oriented Programming). It is the mechanism in Java by which one class is allowed to inherit the features (fields and methods) of another class. We are achieving inheritance by using extends keyword. Inheritance is also known as "is-a" relationship.
 
 **Example**: Dog, Cat, Cow can be Derived Class of Animal Base Class. 
+___
 ## polymorphism
 The word polymorphism means having many forms, and it comes from the Greek words poly (many) and morph (forms), this means one entity can take many forms. In Java, polymorphism allows the same method or object to behave differently based on the context, specially on the project's actual runtime class.
 
@@ -54,3 +55,5 @@ Polymorphism in Java is mainly of 2 types as mentioned below:
 **Method Overloading**: Also, known as compile-time polymorphism, is the concept of Polymorphism where more than one method share the same name with different signature(Parameters) in a class. The return type of these methods can or cannot be same.
 
 **Method Overriding**: Also, known as run-time polymorphism, is the concept of Polymorphism where method in the child class has the same name, return-type and parameters as in parent class. The child class provides the implementation in the method already written.
+
+___
