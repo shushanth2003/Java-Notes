@@ -112,3 +112,13 @@ class GFG {
 }
 ~~~
 ---
+## Private Constructor
+A private constructor cannot be accessed from outside the class. It is commonly used in:
+
+* **Singleton Pattern**: To ensure only one instance of a class is created.
+* **Utility/Helper Classes**: To prevent instantiation of a class containing only static methods.
+
+__
+## Constructor Overloading
+This is a key concept in OOP related to constructors is constructor overloading. This allows us to create multiple constructors in the same class with different parameter lists.
+--
