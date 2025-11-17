@@ -55,11 +55,11 @@ public class Main {
 The protected access modifier is specified using the keyword protected. The methods or data members declared as protected are accessible within the same package or subclasses in different packages.
 ~~~
 java
-class Vehicle {
+class Vehicles {
     protected int speed; // protected member
 }
 
-class Bike extends Vehicle {
+class Bike extends Vehicles {
     void setSpeed(int s)
     {
         speed = s; // accessible in subclass
@@ -79,7 +79,7 @@ public class Main {
         System.out.println("Access via subclass method: "
                            + b.getSpeed());
 
-        Vehicle v = new Vehicle();
+        Vehicles v = new Vehicles();
         System.out.println(v.speed);
     }
 }
