@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Notes.iml" filepath="$PROJECT_DIR$/Java-Notes.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaInterface/JavaInterface.iml" filepath="$PROJECT_DIR$/JavaInterface/JavaInterface.iml" />
     </modules>

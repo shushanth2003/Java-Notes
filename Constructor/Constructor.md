@@ -124,3 +124,5 @@ This is a key concept in OOP related to constructors is constructor overloading.
 ---
 [Computer Networks](https://dev.to/guptem/my-computer-networks-journey-from-confusion-to-clarity-with-kunal-kushwaha-320b)
 [Refactoring Guru SOLID principles](https://refactoring.guru/)
+---
+[Geeks for Geeks Design Patterns](https://www.geeksforgeeks.org/system-design/java-design-patterns/)
