@@ -122,4 +122,5 @@ A private constructor cannot be accessed from outside the class. It is commonly 
 ## Constructor Overloading
 This is a key concept in OOP related to constructors is constructor overloading. This allows us to create multiple constructors in the same class with different parameter lists.
 ---
-[Computer Networks][https://dev.to/guptem/my-computer-networks-journey-from-confusion-to-clarity-with-kunal-kushwaha-320b]
+[Computer Networks](https://dev.to/guptem/my-computer-networks-journey-from-confusion-to-clarity-with-kunal-kushwaha-320b)
+[Refactoring Guru SOLID principles](https://refactoring.guru/)
